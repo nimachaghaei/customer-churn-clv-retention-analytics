@@ -1,0 +1,10 @@
+andas
+numpy
+scikit-learn
+xgboost
+shap
+lifetimes
+matplotlib
+seaborn
+plotly
+pyarrow
